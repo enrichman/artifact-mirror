@@ -2167,6 +2167,7 @@ Artifacts:
   - v3.31.2
   - v3.31.3
   - v3.31.4
+  - v3.31.5
 - SourceArtifact: quay.io/calico/whisker
   Tags:
   - v3.30.0
