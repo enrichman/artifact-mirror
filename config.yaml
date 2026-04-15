@@ -1717,6 +1717,7 @@ Artifacts:
   - v3.31.2
   - v3.31.3
   - v3.31.4
+  - v3.31.5
 - SourceArtifact: quay.io/calico/cni
   Tags:
   - v3.16.5
