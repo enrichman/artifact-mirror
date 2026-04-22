@@ -192,7 +192,7 @@
     Repository: prom2teams
   Name: prom2teams
   Reviewers:
-  - rancher/observation-backup
+  - rancher/orbs
 - GithubRelease:
     Artifacts:
     - SourceArtifact: registry.k8s.io/sig-storage/snapshot-controller
