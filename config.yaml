@@ -123,8 +123,8 @@ Artifacts:
 - SourceArtifact: dp.apps.rancher.io/containers/grafana
   Tags:
   - 12.1.1-2.2
-  - 12.3.1-1.6
   - 12.3.1-1.12
+  - 12.3.1-1.6
 - SourceArtifact: dp.apps.rancher.io/containers/k3k
   Tags:
   - 1.0.0-1.1
@@ -166,8 +166,8 @@ Artifacts:
   - stgregistry.suse.com/rancher
 - SourceArtifact: dp.apps.rancher.io/containers/node-exporter
   Tags:
-  - 1.10.2-14.3
   - 1.10.2-11.21
+  - 1.10.2-14.3
   - 1.9.1-11.3
 - SourceArtifact: dp.apps.rancher.io/containers/redis
   Tags:
