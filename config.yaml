@@ -1822,6 +1822,7 @@ Artifacts:
   - v3.31.3
   - v3.31.4
   - v3.31.5
+  - v3.32.0
 - SourceArtifact: quay.io/calico/ctl
   Tags:
   - v3.16.5
