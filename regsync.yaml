@@ -12467,6 +12467,9 @@ sync:
 - source: quay.io/calico/ctl:v3.31.5
   target: docker.io/rancher/mirrored-calico-ctl:v3.31.5
   type: image
+- source: quay.io/calico/ctl:v3.32.0
+  target: docker.io/rancher/mirrored-calico-ctl:v3.32.0
+  type: image
 - source: quay.io/calico/ctl:v3.13.4
   target: registry.suse.com/rancher/mirrored-calico-ctl:v3.13.4
   type: image
@@ -12617,6 +12620,9 @@ sync:
 - source: quay.io/calico/ctl:v3.31.5
   target: registry.suse.com/rancher/mirrored-calico-ctl:v3.31.5
   type: image
+- source: quay.io/calico/ctl:v3.32.0
+  target: registry.suse.com/rancher/mirrored-calico-ctl:v3.32.0
+  type: image
 - source: quay.io/calico/ctl:v3.13.4
   target: stgregistry.suse.com/rancher/mirrored-calico-ctl:v3.13.4
   type: image
@@ -12766,6 +12772,9 @@ sync:
   type: image
 - source: quay.io/calico/ctl:v3.31.5
   target: stgregistry.suse.com/rancher/mirrored-calico-ctl:v3.31.5
+  type: image
+- source: quay.io/calico/ctl:v3.32.0
+  target: stgregistry.suse.com/rancher/mirrored-calico-ctl:v3.32.0
   type: image
 - source: quay.io/calico/envoy-gateway:v3.30.0
   target: docker.io/rancher/mirrored-calico-envoy-gateway:v3.30.0
