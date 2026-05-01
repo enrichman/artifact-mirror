@@ -2226,6 +2226,7 @@ Artifacts:
   - v3.31.3
   - v3.31.4
   - v3.31.5
+  - v3.32.0
 - SourceArtifact: quay.io/cilium/certgen
   Tags:
   - v0.1.11
