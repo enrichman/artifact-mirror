@@ -1899,6 +1899,7 @@ Artifacts:
   - v3.31.3
   - v3.31.4
   - v3.31.5
+  - v3.32.0
 - SourceArtifact: quay.io/calico/envoy-proxy
   Tags:
   - v3.30.0
