@@ -101,6 +101,8 @@ Artifacts:
 - SourceArtifact: dp.apps.rancher.io/charts/kubernetes-cluster-autoscaler
   Tags:
   - 9.50.1
+  - 9.56.0
+  - 9.57.0
   TargetRepositories:
   - registry.suse.com/rancher/charts
   - stgregistry.suse.com/rancher/charts
